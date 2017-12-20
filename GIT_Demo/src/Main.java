@@ -11,5 +11,7 @@ public class Main {
 	{
 		System.out.println("School Notice");
 		System.out.println("College Notice");
+		
+		System.out.println("Company Notice");
 	}
 }
