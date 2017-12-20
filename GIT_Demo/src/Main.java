@@ -13,6 +13,6 @@ public class Main {
 		System.out.println("College Notice");
 		
 		System.out.println("Company Notice");
-		
+		System.out.println("Family Notice");
 	}
 }
