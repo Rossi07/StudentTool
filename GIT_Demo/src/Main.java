@@ -9,10 +9,10 @@ public class Main {
 	}
 	public static void noticeBoard()
 	{
-		System.out.println("School Notice");
-		System.out.println("College Notice");
+		System.out.println("SCHOOL NOTICE");
+		System.out.println("COLLEGE NOTICE");
 		
-		System.out.println("Company Notice");
-		System.out.println("Family Notice");
+		System.out.println("COMPANY NOTICE");
+		System.out.println("FAMILY NOTICE");
 	}
 }
