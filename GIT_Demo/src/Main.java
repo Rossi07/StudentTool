@@ -5,7 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		StudentData student=new  StudentData();
 		student.display();
-		noticeBoard();
+		noticeBoard();;
 	}
 	public static void noticeBoard()
 	{
